@@ -1,0 +1,472 @@
+img {
+border-radius: 50%;
+width: 45px;
+height: 45px;
+margin-top: 10px;
+float: right;
+padding: 4px;
+position: absolute;
+left: 900px; 
+top: -7px;
+}
+.miguel img {
+position: absolute;
+border-radius: 50%;
+width: 80px;
+height: 80px;
+margin-top: 10px;
+float: right;
+padding: 4px;
+position: absolute;
+left: 50px; 
+top: 530px;
+}
+.miguel h2{
+position: absolute;
+left: 135px;
+top: 550px;
+font-size: 20;
+color: #DF7401;
+text-shadow: 2px 2px 3px #000000;
+font-family: 'gotham', cursive;
+margin-top: 10px;
+text-align: center; 
+}
+.criador h2{
+position: absolute;
+left: 400px;
+top: 550px;
+font-size: 20;
+color: #DF7401;
+text-shadow: 2px 2px 3px #000000;
+font-family: 'gotham', cursive;
+margin-top: 10px;
+text-align: center; 
+}
+.criador img {
+position: absolute;
+border-radius: 50%;
+width: 80px;
+height: 80px;
+margin-top: 10px;
+float: right;
+padding: 4px;
+position: absolute;
+left: 410px; 
+top: 530px;
+}
+.criador h2{
+position: absolute;
+left: 500px;
+top: 550px;
+font-size: 20;
+color: #DF7401;
+text-shadow: 2px 2px 3px #000000;
+font-family: 'gotham', cursive;
+margin-top: 10px;
+text-align: center; 
+}
+.criador h1{
+font-size: 30px;color: #ecf0f1;
+text-shadow: 2px 2px 3px #000000;
+font-family: 'gotham', cursive;
+margin-top: 10px;
+text-align: center; 
+}
+.servidor {
+background: red;
+padding: 20px;
+padding-left: 10px;
+padding-right: 10px;
+margin-bottom: 10px;  
+}
+.servidor a {
+position: absolute;
+left: 450px; 
+top: 500px;  
+align: center;
+border:1px solid #25692A;
+border-radius:4px;
+font-weight:bold;
+font-size:13px;
+padding:15px 10px;
+text-decoration:none;
+background: #04B431;
+color:#FFF;
+font-family: 'ARIAL', cursive;  
+text-align: center;  
+letter-spacing: 10px;
+}
+.servidor outro {
+background: blue;
+}
+.teste a{
+margin-top: 10px;
+float: right;
+position: absolute;
+left: 950px; 
+top: 9px;
+}
+.menu a {
+    margin: 0;
+    border: 0px solid #f00; 
+    text-decoration: none;
+    color:#FFF;
+  	font-family: 'ARIAL', cursive;
+  	font-size: 16px;
+  	text-shadow: 1px 2px 1px #000000;
+    padding-top: 2px;
+    font-weight: bold;
+    padding: 5px;    
+}
+.paragrafo h1 {
+	text-align: center;
+  font-size: 20px;color: #ecf0f1;
+	text-shadow: 1px 1px 10px #000000;
+	font-family: 'gotham', cursive;
+  margin-top: 10px;
+}
+.sobre h1{
+  font-size: 30px;color: #ecf0f1;
+	text-shadow: 2px 2px 3px #000000;
+	font-family: 'gotham', cursive;
+  margin-top: 10px;
+	text-align: center;  
+}
+.sobre{
+  background: #04B4AE;
+	text-align: center; 
+  padding: 50px;
+}
+.sobre h2{
+	text-align: center;  
+  font-size: 20px;color: #ecf0f1;
+	text-shadow: 1px 1px 3px #000000;
+	font-family: 'gotham', cursive;
+  margin-top: 10px;
+}
+.paragrafo h2 {
+	text-align: center;
+	font-size: 15px;
+	color: #BDBDBD;
+	text-shadow: 2px 2px 3px #000000;
+	font-family: 'ARIAL', cursive;
+  line-height: 5px;
+  margin-top: 10px;
+  color: white;
+}
+p {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    color: #ecf0f1;
+    font-family: 'Cherry Swash',cursive;
+    font-size: 16px;
+}
+span {
+    color: #2BD6B4;
+} 
+.fancy {
+  width: 500px;
+  margin: 20px auto;
+  padding: 50px;
+  border-width: 10px;
+}
+#nomes {
+font-family: "Comic Sans MS";
+padding: 10 px;
+color: white;
+}
+#adm {
+	left: 100px;
+}
+
+.classe
+{
+        width: 190px;
+        height: 270px;
+        border: 1px solid gray;
+        padding: 10px 20px;
+        background: #0489B1;
+        margin: 10px;
+        font-family: arial;
+}
+.classe input {
+width: 95%;
+padding: 3px 6px;
+margin: 6px 0;
+box-sizing: border-box;
+border-radius: 5px 6px;
+}
+.classe button {
+  width: 95%;
+  background-color: #04B4AE;
+  border: none;
+  color: white;
+  padding: 5px 8px;
+  text-decoration: none;
+  margin: 1px 1px;
+  cursor: pointer;
+  border-radius: 5px 6px;  
+}
+.morty
+{     
+        position: relative;
+        border: 1px solid gray;
+        padding: 12px 20px;
+        background: #0489B1;
+        font-family: arial;
+        float: center; width: 20%; 
+        display: table;
+        margin: 0 auto;
+        top: -302px;
+        left: -110px;
+}
+.morty input {
+width: 95%;
+padding: 3px 6px;
+margin: 6px 0;
+box-sizing: border-box;
+border-radius: 5px 6px;
+}
+.morty button {
+  width: 95%;
+  background-color: #04B4AE;
+  border: none;
+  color: white;
+  padding: 5px 8px;
+  text-decoration: none;
+  margin: 1px 1px;
+  cursor: pointer;
+  border-radius: 5px 6px;  
+}
+.morty1
+{     
+        position: relative;
+        border: 1px solid gray;
+        padding: 12px 20px;
+        background: #0489B1;
+        font-family: arial;
+        float: center; width: 20%; 
+        display: table;
+        margin: 0 auto;
+        top: -592px;
+        left: 160px;
+}
+.morty1 input {
+width: 95%;
+padding: 3px 6px;
+margin: 6px 0;
+box-sizing: border-box;
+border-radius: 5px 6px;
+}
+.morty1 button {
+  width: 95%;
+  background-color: #04B4AE;
+  border: none;
+  color: white;
+  padding: 5px 8px;
+  text-decoration: none;
+  margin: 1px 1px;
+  cursor: pointer;
+  border-radius: 5px 6px;  
+}
+
+.dono h2{
+position: absolute;
+left: 835px;
+top: 550px;
+font-size: 20;
+color: #DF7401;
+text-shadow: 2px 2px 3px #000000;
+font-family: 'gotham', cursive;
+margin-top: 10px;
+text-align: center; 
+}
+.dono img {
+position: absolute;
+border-radius: 50%;
+width: 80px;
+height: 80px;
+margin-top: 10px;
+float: right;
+padding: 4px;
+position: absolute;
+left: 750px; 
+top: 530px;
+}
+
+
+
+@import url("//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.0.3/css/font-awesome.min.css");
+.menu, .menu-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background: #f7f7f7;
+    z-index:10;  
+    overflow:hidden;
+    box-shadow: 2px 0 18px rgba(0, 0, 0, 0.26);
+}
+.menu li a{
+  display: inline-block;
+  text-indent: -500em;
+  height: 5em;
+  width: 5em;
+  line-height: 5em;
+  text-align:center;
+  color: #72739f;
+  position: relative;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  transition: background 0.1s ease-in-out;
+}
+.menu li a:before {
+  font-family: FontAwesome;
+  speak: none;
+  text-indent: 0em;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 1.4em;
+}
+.menu li a.search:before {
+  content: "\f002";
+}
+.menu li a.archive:before {
+  content: "\f187";
+}
+.menu li a.pencil:before {
+  content: "\f040";
+}
+.menu li a.contact:before {
+  content: "\f003";
+}
+.menu li a.about:before {
+  content: "\f007";
+}
+.menu li a.home:before {
+  content: "\f039";
+}
+.menu-bar li a:hover,
+.menu li a:hover,
+.menu li:first-child a {
+  background: #267fdd;
+  color: #fff;
+}
+.menu-bar{
+    overflow:hidden;
+    left:5em;
+    z-index:5;
+    width:0;
+    height:0;
+    transition: all 0.1s ease-in-out;
+}
+.menu-bar li a{
+  display: block;
+  height: 4em;
+  line-height: 4em;
+  text-align:center;
+  color: #72739f;
+  text-decoration:none;  
+  position: relative;
+  font-family:verdana;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  transition: background 0.1s ease-in-out;
+}
+.menu-bar li:first-child a{
+    height:5em;
+    background: #267fdd;
+    color: #fff;    
+    line-height:5
+}
+
+
+.para{
+    color:#033f72;
+    padding-left:100px;
+    font-size:3em;
+    margin-bottom:20px;
+}
+
+.open{
+    width:10em;
+    height:100%;
+}
+
+@media all and (max-width: 500px) {
+    .container{
+        margin-top:100px;
+    }
+    .menu{
+        height:5em;
+        width:100%;
+    }
+    .menu li{
+        display:inline-block;
+    }
+    .menu-bar li a{
+        width:100%;
+    }
+    .menu-bar{
+        width:100%;
+        left:0;
+      bottom: 0;
+        height:0;
+    }
+    .open{
+        width:100%;
+        height:auto;
+    }
+    .para{
+    padding-left:5px;
+}  
+}
+@media screen and (max-height: 34em){
+  .menu li,
+  .menu-bar {
+    font-size:70%;
+  }
+}
+@media screen and (max-height: 34em) and (max-width: 500px){
+  .menu{
+        height:3.5em;
+    }
+}
+
+
+
+<div class="sobre">
+    <h1>Sobre</h1>   
+    <h2>Me Chamo Smash fui feito em Javascript por uma Equipe de Programadores! Meu Objetivo é Melhorar seu Servidor e Trazer Diverção</h2>
+    <h2>
+    Meu Prefixo Padrão é ! , Você pode muda-lo pela Dashboard ou Comando, Para saber se eu Estou funcionando use !Ping
+    </h2>
+    <h2>Se Você Encontrar Algum Bug Reporte-o em Meu Servidor de Suporte</h2>
+    <h2>No Momento Possuo mais de 20 Comandos e voce pode Ver-los No Menu Comandos ou Digitando !ajuda</h2>
+    </div>     
+    <div class="criador">
+    <h1>Meus Criadores</h1>        
+    <img src="https://cdn.discordapp.com/avatars/505878433998569472/<%=client.users.get("505878433998569472").avatar%>"><h2>Godzin#5566</h2>
+    </div>
+    <div class="miguel">    
+    <img src="https://cdn.discordapp.com/avatars/336905723621670914/<%=client.users.get("336905723621670914").avatar%>"><h2>Miguelws#9617</h2>
+    </div>        
+    <div class="dono">    
+    <img src="https://cdn.discordapp.com/avatars/665200472596152341/<%=client.users.get("665200472596152341").avatar%>"><h2>Morty#4370</h2>
+    </div>         
+    </body>
+    
+     <% for (var i =  1; i <=morty;i++){%>
+                                  <tr class="active-row">                                 
+                                  <td> <%=nome[i]%></td>       
+                                  <td><%=id[i]%></td>
+                                  <td>Em Breve</td>                          
+                                  <%}%>   
+                                  </tr> 
